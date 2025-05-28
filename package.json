@@ -1,0 +1,36 @@
+{
+  "name": "@justapieop/utils",
+  "version": "1.0.0",
+  "description": "Utilities for my projects.",
+  "private": false,
+  "keywords": [
+    "winston",
+    "config"
+  ],
+  "homepage": "https://github.com/justapieop/winston-config#readme",
+  "bugs": {
+    "url": "https://github.com/justapieop/winston-config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justapieop/winston-config.git"
+  },
+  "license": "MIT",
+  "author": "justapieop",
+  "type": "commonjs",
+  "main": "dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.24",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "nest-winston": "^1.10.2",
+    "winston": "^3.17.0"
+  }
+}
