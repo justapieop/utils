@@ -7,13 +7,13 @@
     "winston",
     "config"
   ],
-  "homepage": "https://github.com/justapieop/winston-config#readme",
+  "homepage": "https://github.com/justapieop/utils#readme",
   "bugs": {
-    "url": "https://github.com/justapieop/winston-config/issues"
+    "url": "https://github.com/justapieop/utils/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justapieop/winston-config.git"
+    "url": "git+https://github.com/justapieop/utils.git"
   },
   "license": "MIT",
   "author": "justapieop",
