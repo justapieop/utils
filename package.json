@@ -30,7 +30,9 @@
     "typescript": "^5.8.3"
   },
   "dependencies": {
+    "@sentry/nestjs": "^9.24.0",
     "nest-winston": "^1.10.2",
-    "winston": "^3.17.0"
+    "winston": "^3.17.0",
+    "winston-transport": "^4.9.0"
   }
 }
